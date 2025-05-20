@@ -1,11 +1,8 @@
-#  Mean and variance of a discrete  distribution
 ```
 Name : Madhesh I
 Reg No : 212224220055
-Department : IT
-Date : 30.04.2025
 ```
-
+#  Mean and variance of a discrete  distribution
 # Aim : 
 
 To find mean and variance of arrival of objects from the feeder using probability distribution
