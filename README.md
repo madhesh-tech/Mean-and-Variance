@@ -1,6 +1,7 @@
 ```
 Name : Madhesh I
 Reg No : 212224220055
+Date : 04/03/25
 ```
 #  Mean and variance of a discrete  distribution
 # Aim : 
